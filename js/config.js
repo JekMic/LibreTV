@@ -115,8 +115,8 @@ const API_SITES = {
         name: '量子资源站'
     },
     testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
+        name: '老色逼',
         adult: true
     },
 };
